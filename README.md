@@ -1,5 +1,5 @@
-<H3>NAME</H3> :<H3>AJITHKUMAR A</H3>
-<H3>REGISTER NO</H3>:<H3> 212223230009</H3>
+<H3>NAME : AJITHKUMAR A</H3>
+<H3>REGISTER NO: 212223230009</H3>
 <H3>EX. NO.3</H3>
 <H3>DATE:
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
